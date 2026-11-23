@@ -36,6 +36,30 @@ Playful physics, interactive 3D scenes, and small browser worlds — collected i
   </tr>
 </table>
 
+## Improvement, with receipts
+
+The archive also preserves **how the work improved**: source snapshots, technical iterations, before/after captures and prompt refinement — with evidence boundaries instead of invented progress.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/annieshuyuez22-rgb/social-bench/main/cases/04-vehicle-physics/process-evidence/monster-initial-contact.png" width="100%" alt="Monster Truck initial contact frame">
+      <strong>Initial contact</strong>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/annieshuyuez22-rgb/social-bench/main/cases/04-vehicle-physics/process-evidence/monster-final-contact.png" width="100%" alt="Monster Truck R7 contact frame">
+      <strong>R7 · refined contact</strong>
+    </td>
+  </tr>
+</table>
+
+- **Monster Truck:** 7 logged refinement rounds, 21-point tire support, deterministic replay and stable GPU resources across resets.
+- **Whale Breach:** three browser source stages, plus a separate Blender branch with verified orientation and 244 water-entry frames rerendered.
+- **Fawn Deer:** 30 light directions and 5 sun angles tested, short-fur shading, and 0–1px bounding-box differences on five checked frames.
+- **Evidence first:** 5 verified iteration histories, 7 prompt-evolution pairs, 3 implementation studies, and 10 final-only archives with no fabricated process.
+
+**[Read the complete Improvement Archive →](https://github.com/annieshuyuez22-rgb/social-bench/blob/main/PROCESS.md)**
+
 ## The collection
 
 | Collection | Projects | What to explore |
